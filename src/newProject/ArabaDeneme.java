@@ -15,6 +15,7 @@ public class ArabaDeneme {
 		//String marka, String model, int uretimYili, String uretildigiUlke, boolean otomatikVitesmi
 		for (int i = 0; i < 2; i++) {
 			System.out.println("Araba degerleri isteniyor!");
+			System.out.println("Githubdan git'e...);
 			System.out.println("Arabanin markasini giriniz : ");
 			String marka=sc.next();
 			System.out.println("Arabanin modelini giriniz : ");
